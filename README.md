@@ -18,7 +18,6 @@ O objetivo do projeto é desenvolver um modelo que represente um sistema de cont
 
 - Prioridade de acesso
   - Apenas um avião pode entrar ou sair dos gates (G1 - G3) por vez;
-  - Aviões que estão nos gates tem prioridade de deslocamento;
   - Aviões não podem pousar caso as pistas de taxiamento (T1) ou todos os gates (G1 - G3) estejam ocupados.
 ## Eventos
 ### Eventos controláveis
