@@ -38,5 +38,5 @@ O objetivo do projeto é desenvolver um modelo que represente um sistema de cont
 - Finalizar táxi de chegada (Txin_end_X): Resultado do táxi de chegada;
 - Finalizar estacionamento no Gate (Gtend_X): Resultado da entrada no Gate.
 ## Vídeo demonstrativo
--
+- ![Demonstração do Projeto SED]([https://youtube.com](https://youtu.be/kLCvcexKGU4))
 
